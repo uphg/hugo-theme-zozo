@@ -286,6 +286,14 @@ hr {
   margin-right: 10px;
 }
 
+.post .post_footer .meta .field .ri-stack-line {
+  vertical-align: text-top;
+}
+
+.post .post_footer .meta .field .ri-map-pin-time-line:before {
+  vertical-align: text-top;
+}
+
 .post .post_footer .meta .tags a {
   text-decoration: none;
   color: #bbbbbb;
